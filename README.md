@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devcamilatosta
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning JAVASCRIPT|HTML|CSS
+- 🌱 I’m JAVASCRIPT|HTML|CSS
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me contatocamilatosta@gmail.com
 
